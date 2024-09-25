@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Company company = new Company();
         Scanner scanner = new Scanner(System.in);
         while (true){
